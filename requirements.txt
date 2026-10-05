@@ -17,4 +17,4 @@ RPi.GPIO==0.7.1
 smbus2==0.6.1
 tomli==2.4.1
 typing-extensions==4.16.0
-urllib3==2.6.3
+urllib3==2.8.0
